@@ -20,7 +20,7 @@
     "has_subscribe": true,
     "social_title": "Community",
     "tagline": "True Fast Loading Website",
-    "logo_img": "images/logo_alt.png",
+    "logo_img": "/images/icon.png",
     "has_social": true,
     "content": "&copy; Loadingless. All rights reserved.",
     "links": [],
