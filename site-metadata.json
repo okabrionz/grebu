@@ -3,7 +3,7 @@
   "palette": "purple",
   "header": {
     "title": "Azimuth",
-    "logo_img": "/images/icon.png",
+    "logo_img": "/images/loadingless-logo.png",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -20,7 +20,7 @@
     "has_subscribe": true,
     "social_title": "Community",
     "tagline": "True Fast Loading Website",
-    "logo_img": "/images/icon.png",
+    "logo_img": "/images/loadingless-logo.png",
     "has_social": true,
     "content": "&copy; Loadingless. All rights reserved.",
     "links": [],
